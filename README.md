@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prajval Singh
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development | Mobile Development
 - 🌱 I’m currently learning React.js
 - 📫 Reach me on singhprajval91@gmail.com
 
