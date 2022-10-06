@@ -38,7 +38,7 @@
 <div align="center" style="padding: 20px 10px">
 <img style="border: 5px solid #5BB5AE;" align="center" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=prajvals&theme=react&border=61dafb&hide_border=true" alt="prajvals">
 </div>
-<div align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajvals&theme=react&show_icons=true&locale=en&layout=compact" alt="prajvals" /></p>
+<br>
+<div align="center" style="padding: 20px 10px">
+<p><img src="https://github-readme-stats.vercel.app/api?username=prajvals&theme=react&show_icons=true&locale=en" alt="prajvals" /></p>
 </div>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=prajvals&theme=react&show_icons=true&locale=en" alt="prajvals" /></p>
