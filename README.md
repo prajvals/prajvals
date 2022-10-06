@@ -38,6 +38,7 @@
 <div align="center" style="padding: 20px 10px">
 <img style="border: 5px solid #5BB5AE;" align="center" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=prajvals&theme=react&border=61dafb&hide_border=true" alt="prajvals">
 </div>
+<br>
 <div align="center" style="padding: 50px 100px">
 <p><img src="https://github-readme-stats.vercel.app/api?username=prajvals&theme=react&show_icons=true&locale=en" alt="prajvals" /></p>
 </div>
