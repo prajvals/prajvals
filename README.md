@@ -2,6 +2,8 @@
 
 <h3 align="center">I'm Prajval, A passionate Fullstack developer from India</h3>
 
+<h2 align="center">Github Lesson: Never commit too much on any particular day. It destroys your Graph LOL </h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajvals&label=Profile%20views&color=0e75b6&style=flat" alt="prajvals" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajvals&title=MultiLanguage,Commits,Repositories,PullRequest&theme=onedark" alt="c0de-runner" /></a> </p>
