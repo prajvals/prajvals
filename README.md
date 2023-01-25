@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/prajval_builds" target="blank"><img src="https://img.shields.io/twitter/follow/prajval_builds?logo=twitter&style=for-the-badge" alt="prajval_builds" /></a> </p>
 
-- 🔭 I’m currently working on [Microservices-Explained](https://github.com/prajvals/Microservices-Explored)
+- 🔭 I’m currently working on [Microservices-Explained.](https://github.com/prajvals/Microservices-Explored)
 
 - 🌱 I’m currently learning **Spring Boot And Backend Technologies**
 
