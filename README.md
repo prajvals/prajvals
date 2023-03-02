@@ -41,4 +41,4 @@
 <br>
 <div align="center" style="padding: 50px 100px">
 <p><img src="https://github-readme-stats.vercel.app/api?username=prajvals&theme=react&show_icons=true&locale=en" alt="prajvals" /></p>
-</div>
+</div> 
