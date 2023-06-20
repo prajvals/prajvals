@@ -1,4 +1,4 @@
-<h1 align="center">  ⚡ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430 " width="30"/> Hey! Nice to see you ⚡ </h1>
+<h1 align="center">  ⚡ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430 " width="30"/> Hey! Nice to see you ⚡  </h1>
 
 <h3 align="center">I'm Prajval, A Passionate FullStack Developer From India</h3>
 
